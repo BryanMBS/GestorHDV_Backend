@@ -163,9 +163,5 @@ Revisa la sección de issues para más detalles.
 Si te gusta este proyecto, por favor dale una estrella ⭐ en GitHub. ¡Tu apoyo es muy apreciado!
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
-🙏 Agradecimientos <a name="acknowledgements"></a>
-Agradezco a Dios por darme la fuerza para llevar a cabo este proyecto, y a los instructores del SENA por brindarnos ejercicios que fortalecen nuestras habilidades en desarrollo de software.
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 📝 Licencia <a name="license"></a>
 Este proyecto está bajo la licencia MIT.
